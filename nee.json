@@ -1,0 +1,196 @@
+  {
+    "content": [
+	{
+	    "sample": "nee/Nee0001.flac"
+	    , "text": [
+	      ["Hey, who are you thinking of now?"]
+	    , ["ねぇ","君","は","今","だれ","を","想って","いる","の","?"]
+	    , ["","you","","now","who","","Think","there is","","?"]
+	    , ["Ne~e","Kimi","Wa","Ima","Dare","O","Omotte","Iru","No","?"]]
+	}
+	,{
+	    "sample": "nee/Nee0002.flac"
+	    , "text": [
+	       ["i'm thinking of you"]
+	    ,  ["私","は","君","を","想って","いる","よ"]
+	    , ["I","","you","","Think","there is",""]
+	    , ["Watashi","Wa","Kimi","O","Omotte","Iru","Yo"]]
+	}
+	,{
+	    "sample": "nee/Nee0003.flac"
+	    , "text": [
+	      ["I felt the window open"]
+	    , ["窓","を","開ける","と","感じた"]
+	    , ["window","","Open","","Felt"]
+	    , ["Mado","O","Akeru","To","Kanjita"]]
+	}
+	,{
+	    "sample": "nee/Nee0004.flac"
+	    , "text": [
+	      ["smell of the night"]
+	    , ["夜","の","におい"]
+	    , ["night","","smell"]
+	    , ["Yoru","No","Nioi"]]
+	}
+	,{
+	    "sample": "nee/Nee0005.flac"
+	    , "text": [
+	      ["whose face is now"]
+	    , ["今","だれ","の","顔","が"]
+	    , ["now","who","","face",""]
+	    , ["Ima","Dare","No","Kao","Ga"]]
+	}
+	,{
+	    "sample": "nee/Nee0006.flac"
+	    , "text": [
+	      ["floating in your mind?"]
+	    , ["心の中","に","浮かんだ","?"]
+	    , ["in my heart","","floated","?"]
+	    , ["Kokoronouchi","Ni","Ukanda","?"]]
+	}
+	,{
+	    "sample": "nee/Nee0007.flac"
+	    , "text": [
+	      ["To me who was drenched in the cold rain"]
+	    , ["冷たい","雨","ずぶ濡れ","に","なって","た","私","に"]
+	    , ["cold","rain","soaked","","Become","","I",""]
+	    , ["Tsumetai","Ame","Zubunure","Ni","Natte","Ta","Watashi","Ni"]]
+	}
+	,{
+	    "sample": "nee/Nee0008.flac"
+	    , "text": [
+	      ["You were the only one who reached out to me"]
+	    , ["君","だけ","が","その","手","を","差しのべて","くれた","んだ"]
+	    , ["you","","","the","hand","","all the difference","gave","da"]
+	    , ["Kimi","Dake","Ga","Sono","Te","O","Sashinobete","Kureta","Nda"]]
+	}
+	,{
+	    "sample": "nee/Nee0009.flac"
+	    , "text": [
+	      ["why is it always you"]
+	    , ["なぜ","いつも","君な","んだろ","う"]
+	    , ["why","everytime","you","donro",""]
+	    , ["Naze","Itsumo","Kimi na","Ndaro","U"]]
+	}
+	,{
+	    "sample": "nee/Nee0010.flac"
+	    , "text": [
+	      ["who will support"]
+	    , ["支えて","くれる","人","は"]
+	    , ["support","give","Man",""]
+	    , ["Sasaete","Kureru","Hito","Wa"]]
+	}
+	,{
+	    "sample": "nee/Nee0011.flac"
+	    , "text": [
+	      ["each time"]
+	    , ["その","たび"]
+	    , ["the","trip"]
+	    , ["Sono","Tabi"]]
+	}
+	,{
+	    "sample": "nee/Nee0012.flac"
+	    , "text": [
+	      ["I'm falling in love again"]
+	    , ["また","好き","に","なって","いく"]
+	    , ["","like","","Become","go"]
+	    , ["Mata","Suki","Ni","Natte","Iku"]]
+	}
+	,{
+	    "sample": "nee/Nee0013.flac"
+	    , "text": [
+	      ["Hey, no matter what, I want to see you"]
+	    , ["ねぇ","何","して","も","君","に","会いたく","なる","よ"]
+	    , ["","what","do","","you","","to want to see","Become",""]
+	    , ["Ne~e","Nani","Shite","Mo","Kimi","Ni","Aitaku","Naru","Yo"]]
+	}
+	,{
+	    "sample": "nee/Nee0014.flac"
+	    , "text": [
+	      ["It hurts to fall in love"]
+	    , ["好き","に","なる","って","苦しい","んだ","ね"]
+	    , ["like","","Become","","painful","da",""]
+	    , ["Suki","Ni","Naru","Tte","Kurushī","Nda","Ne"]]
+	}
+	,{
+	    "sample": "nee/Nee0015.flac"
+	    , "text": [
+	      ["It makes me happy and makes me sad"]
+	    , ["嬉しく","なる","の","も","切なく","さ","せる","の","も"]
+	    , ["gladly","Become","of","","painfully","difference","let","of",""]
+	    , ["Ureshiku","Naru","No","Mo","Setsunaku","Sa","Seru","No","Mo"]]
+	}
+	,{
+	    "sample": "nee/Nee0016.flac"
+	    , "text": [
+	      ["You're always the only reason"]
+	    , ["いつ","でも","理由","は","君","だけだ","よ"]
+	    , ["when","","reason","","you","",""]
+	    , ["Itsu","Demo","Riyū","Wa","Kimi","Dakeda","Yo"]]
+	}
+	,{
+	    "sample": "nee/Nee0017.flac"
+	    , "text": [
+	      ["Another day passes by with a casual attitude"]
+	    , ["素っ気ない","態度","して","また","今日","が","過ぎて","いく"]
+	    , ["curt","attitude","do","","today","","too much","go"]
+	    , ["Sokkenai","Taido","Shite","Mata","Kyō","Ga","Sugite","Iku"]]
+	}
+	,{
+	    "sample": "nee/Nee0018.flac"
+	    , "text": [
+	      ["I care about you so much that I actually hate it."]
+	    , ["本当は","嫌","に","なる","くらい","君","が","気","に","なるのに"]
+	    , ["Actually","hate","","Become","","you","","air","","to become"]
+	    , ["Hontōwa","Iya","Ni","Naru","Kurai","Kimi","Ga","Ki","Ni","Naru no ni"]]
+	}
+	,{
+	    "sample": "nee/Nee0019.flac"
+	    , "text": [
+	      ["Why can't I be honest with the person I love"]
+	    , ["どうして","好きな","人","に","素直","に","なれない","んだろ","う"]
+	    , ["Why","Favorite","Man","","Obedient","","can not become","donro",""]
+	    , ["Dōshite","Sukina","Hito","Ni","Sunao","Ni","Narenai","Ndaro","U"]]
+	}
+	,{
+	    "sample": "nee/Nee0020.flac"
+	    , "text": [
+	      ["It's always the other side of loneliness"]
+	    , ["いつ","で","も","淋し","さ","の","裏返し"]
+	    , ["when","","","loneliness","difference","","inside out"]
+	    , ["Itsu","De","Mo","Sabishi","Sa","No","Uragaeshi"]]
+	}
+	,{
+	    "sample": "nee/Nee0021.flac"
+	    , "text": [
+	      ["Hey, I want you to realize that it's okay"]
+	    , ["ねぇ","気づいて","ほしい","よ","平気だ","よ","って"]
+	    , ["","notice","want","","I'm fine","",""]
+	    , ["Ne~e","Kidzuite","Hoshī","Yo","Heikida","Yo","Tte"]]
+	}
+	,{
+	    "sample": "nee/Nee0022.flac"
+	    , "text": [
+	      ["I cry when I tell you"]
+	    , ["伝える","時","ほど","泣いてる","こと"]
+	    , ["tell","Time","","Whimpering","thing"]
+	    , ["Tsutaeru","Toki","Hodo","Naiteru","Koto"]]
+	}
+	,{
+	    "sample": "nee/Nee0023.flac"
+	    , "text": [
+	      ["The stars in the night sky I looked up at were just beautiful"]
+	    , ["見上げた","夜空","星","が","綺麗な","だけで"]
+	    , ["looked up","night sky","Star","","beautiful",""]
+	    , ["Miageta","Yozora","Hoshi","Ga","Kireina","Dake de"]]
+	}
+	,{
+	    "sample": "nee/Nee0024.flac"
+	    , "text": [
+	      ["i wish you were here"]
+	    , ["ここ","に","君","が","いて","くれたら","って"]
+	    , ["here","","you","","stay","If you give it to me",""]
+	    , ["Koko","Ni","Kimi","Ga","Ite","Kuretara","Tte"]]
+	}
+    ]
+}

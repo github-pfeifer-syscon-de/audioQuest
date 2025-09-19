@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--
+Copyright (C) 2023 RPf <gpl3@pfeifer-syscon.de>
+
+ Creative Commons Legal Code, CC0 1.0 Universal
+-->
+<html>
+    <head>
+	<title>Audio quest</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="js/quest.js"></script>
+	<link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+	<div>Audio quest</div>
+	<div>Texts
+	    <input type="checkbox" id="cbPrim" checked=""/>
+	    Primary&nbsp;
+	    <input type="checkbox" id="cbSec" checked=""/>Secondary
+	</div>
+	<div class="scaling-svg-container" style="padding-bottom: 50%">
+	<svg class="scaling-svg"
+	      xmlns="http://www.w3.org/2000/svg">
+	</svg>
+	</div>
+
+	<table class="bottom" width="min">
+	    <tr >
+		<td width="min">
+		    <button id="start" >Start</button>
+		</td>
+		<td width="min">
+		    Volume:
+		    <br/>
+		    <input id="volume" type="range" min="10" max="100" value="50" class="slider" >
+		</td>
+		<td>
+		</td>
+	    </tr>
+	    <tr>
+		<td colspan="3" width="min">
+		Click start to listen to sample, then double-click right item.</br>
+		All used names/medias are © by their respective owner.
+		</td>
+	    </tr>
+	</table>
+	<div id="alert" class="alert">
+	    <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+	    <p>Next is coming...</p>
+	</div>
+	<script type="text/javascript">
+	    window.onload = (event) => {
+		init();
+	    };
+	</script>
+    </body>
+</html>

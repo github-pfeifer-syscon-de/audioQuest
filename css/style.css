@@ -1,0 +1,122 @@
+/*
+ * Copyright (C) 2023 RPf <gpl3@pfeifer-syscon.de>
+ *
+ * Creative Commons Legal Code, CC0 1.0 Universal
+ *
+*/
+
+html {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+button {
+    font-size: 14pt;
+    background: #40c020;
+    padding: 5px;
+}
+
+.title {
+
+}
+
+.wrong {
+    fill: #c04020 !important;
+}
+.right {
+    fill: #40c020 !important;
+}
+
+.alert {
+    visibility: hidden;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    background: yellow;
+    padding: 10px;
+    border: 2px solid black;
+    z-index: 40;
+    border-radius: 5px;
+}
+.show {
+    visibility: visible !important;
+}
+.unassigned {
+    fill: #c0c0c0;
+}
+
+.src > rect {
+    stroke: black;
+    stroke-width: 1;
+}
+
+.dest > rect {
+    stroke: black;
+    stroke-width: 3;
+}
+
+text {
+    font-size: 10px;
+    text-anchor: middle;
+}
+
+line {
+    stroke: black;
+}
+
+/* see https://css-tricks.com/scale-svg/ */
+.scaling-svg-container {
+    position: relative;
+    height: 0;
+    width: 100%;
+    padding: 0;
+    /* padding-bottom: 100%; */
+    /* override this inline for aspect ratio other than square */
+}
+.scaling-svg {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 4%;
+}
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.tooltip {
+    /* position: relative;
+    display: inline-block; */
+}
+
+/* Tooltip text */
+.tooltiptext {
+    visibility: hidden;
+    text-anchor: start;
+    z-index: 1;
+ /* width: 120px;
+  background-color: #c08020;
+  color: #000;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+*/
+  /* Position the tooltip text - see examples below! */
+/*  position: absolute;
+ */
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover ~ .tooltiptext {
+  visibility: visible;
+}
