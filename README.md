@@ -7,5 +7,5 @@ you to click the right scentence.
 
 This will only work with a minimal web-enviroment...
 
-All used content, is (c) by their respective owner,
+Sound fragments, (c) Nee (&#12397;&#12359;), Fujita Maiko's (&#34276;&#30000;&#40635;&#34915;&#23376;), JVCKENWOOD Victor Entertainment
 used here only for a educational purpose.
